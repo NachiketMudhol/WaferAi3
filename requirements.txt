@@ -1,1 +1,9 @@
-flask==3.0.3
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+torch==2.3.0
+torchvision==0.18.0
+opencv-python-headless==4.10.0.84
+Pillow==10.4.0
+numpy==1.26.4
+matplotlib==3.9.2
